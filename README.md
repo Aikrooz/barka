@@ -10,4 +10,4 @@
 
 ## Registration screen
 
-![Registration screen](<lib\assets\Screenshot 2026-11-05 043603.png>)
+![Registration screen](<lib/assets/Screenshot 2026-11-05 043603.png>)
